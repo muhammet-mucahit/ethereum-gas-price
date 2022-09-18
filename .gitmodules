@@ -1,0 +1,6 @@
+[submodule "gas-price-estimator"]
+	path = gas-price-estimator
+	url = git@github.com:muhammet-mucahit/gas-price-estimator.git
+[submodule "gas-price-tracker"]
+	path = gas-price-tracker
+	url = git@github.com:muhammet-mucahit/gas-price-tracker.git
